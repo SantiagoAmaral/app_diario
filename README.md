@@ -1,4 +1,4 @@
-# app_diario
+# Dashboard - Precipitação Diária
 
 Projeto para Dashboard com informações de precipitação diária no Estado da Bahia
 
